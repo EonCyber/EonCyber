@@ -1,6 +1,7 @@
 <div>
-
-  <img align="left" alt="A Game Character Aniamtion" src="https://i.pinimg.com/originals/20/f9/81/20f98123c58ba9701e9f9040aa14ab29.gif" width="220px"/>
+  <div align="center">
+    <img align="center" alt="A Game Character Aniamtion" src="https://i.pinimg.com/originals/20/f9/81/20f98123c58ba9701e9f9040aa14ab29.gif" width="220px"/> 
+  </div>
   <div>
     <h1 align="center">Ian Vieira's GitHub Repository</h1>
     <p align="center">A Fullstack Software Engineer based on Brazil</p>
